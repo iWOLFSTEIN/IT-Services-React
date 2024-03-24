@@ -4,18 +4,19 @@ import welcome from "../Assets/welcome.svg";
 
 const WelcomeSection = () => {
   return (
-    <div className="mainDiv flex justify-evenly w-auto bg-surface font-fredoka">
-      <div className="bg-red-400 ">
-        <div className="bg-green-300 ">
-          <p className="flex flex-row justify-start">Welcome to</p>
-          <h2 className="flex flex-row justify-start text-3xl">Clock Studio</h2>
+    <div className="mainDiv flex justify-between w-auto bg-surface font-fredoka">
+      <div className="bg-red-400 text-left w-1/2 ">
+        <div className="bg-green-300">
+          <p>Welcome to</p>
+          <h2>Clock Studio</h2>
         </div>
 
-        <h1 className="text-5xl w-30">
+        <h1 className="text-5xl w-30 text-left">
           Get Personalized Solutions for Your Cutting Edge Ideas
         </h1>
       </div>
-      <img src={welcome} alt="" />
+
+      <img className="mr-16" src={welcome} alt=""  />
     </div>
   );
 };
