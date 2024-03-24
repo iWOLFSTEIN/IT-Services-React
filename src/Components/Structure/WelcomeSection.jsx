@@ -1,6 +1,6 @@
 import React from "react";
 import "../Design/WelcomeSection.css";
-import welcome from "../Assets/welcome.svgas";
+// import welcome from "../Assets/welcome.svg";
 
 const WelcomeSection = () => {
   return (
@@ -10,6 +10,7 @@ const WelcomeSection = () => {
           <p className="flex flex-row justify-start">Welcome to</p>
           <h2 className="flex flex-row justify-start text-3xl">Clock Studio</h2>
           <h3>hehehe</h3>
+
         </div>
 
         <h1 className="text-5xl w-30">
