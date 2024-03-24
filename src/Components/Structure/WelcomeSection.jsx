@@ -1,6 +1,6 @@
 import React from "react";
 import "../Design/WelcomeSection.css";
-import welcome from "../Assets/welcome.svg";
+import welcome from "../Assets/welcome.svgas";
 
 const WelcomeSection = () => {
   return (
