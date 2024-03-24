@@ -9,6 +9,7 @@ const WelcomeSection = () => {
         <div className="bg-green-300 ">
           <p className="flex flex-row justify-start">Welcome to</p>
           <h2 className="flex flex-row justify-start text-3xl">Clock Studio</h2>
+          <h3>hehehe</h3>
         </div>
 
         <h1 className="text-5xl w-30 bg-blue-600">
