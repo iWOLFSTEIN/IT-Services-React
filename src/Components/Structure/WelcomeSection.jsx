@@ -11,7 +11,7 @@ const WelcomeSection = () => {
           <h2 className="flex flex-row justify-start text-3xl">Clock Studio</h2>
         </div>
 
-        <h1 className="text-5xl w-30 bg-blue-600">
+        <h1 className="text-5xl w-30">
           Get Personalized Solutions for Your Cutting Edge Ideas
         </h1>
       </div>
