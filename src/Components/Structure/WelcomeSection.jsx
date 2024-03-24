@@ -12,7 +12,7 @@ const WelcomeSection = () => {
           <h3>hehehe</h3>
         </div>
 
-        <h1 className="text-5xl w-30 bg-blue-600">
+        <h1 className="text-5xl w-30">
           Get Personalized Solutions for Your Cutting Edge Ideas
         </h1>
       </div>
