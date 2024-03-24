@@ -15,7 +15,6 @@ const WelcomeSection = () => {
           Get Personalized Solutions for Your Cutting Edge Ideas
         </h1>
       </div>
-
       <img src={welcome} alt="" />
     </div>
   );
